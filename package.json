@@ -1,0 +1,19 @@
+{
+  "name": "npm-modulo",
+  "version": "1.0.0",
+  "description": "creacion de un modulo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacoSantana/npm-modulo.git"
+  },
+  "author": "Paco Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacoSantana/npm-modulo/issues"
+  },
+  "homepage": "https://github.com/PacoSantana/npm-modulo#readme"
+}
